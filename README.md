@@ -35,3 +35,13 @@ I am a Technical Writer (Fresher) with experience creating:
 - Confluence
 - Jira
 - Draw.io
+
+
+## Skills
+
+- User Documentation
+- Quick Start Guides
+- API Documentation
+- Concept Topics
+- Task Topics
+- Information Architecture
